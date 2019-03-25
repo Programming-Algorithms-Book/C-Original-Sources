@@ -1,4 +1,4 @@
-# Programming += Angorithms Book - Original C Sources
+# Programming += Algorithms Book - Original C Sources
 
 ![Programming += Algorithms Book](http://www.programirane.org/wp-content/uploads/2015/12/ProgramiraneAlgoritmi-Korica-Peto-Izdanie.png "Programming += Algorithms;")
 
